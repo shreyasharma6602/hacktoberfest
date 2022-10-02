@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Shreya Sharma] (https://github.com/shreyasharma6602/)
+- Place: Uttarakhand, India
+- Bio: Student
+- Github: [Shreya Sharma] (https://github.com/shreyasharma6602/)
